@@ -84,10 +84,6 @@
     "genDir": "i18n",
     "defaultLanguage": "en",
     "languages": [
-      "fr",
-      "ja",
-      "ko",
-      "zh"
     ],
     "beautifyOutput": true
   },
