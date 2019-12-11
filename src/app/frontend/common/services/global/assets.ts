@@ -19,8 +19,8 @@ import {DomSanitizer} from '@angular/platform-browser';
 @Injectable()
 export class AssetsService {
   private readonly assetsPath_ = 'assets/images';
-  private readonly appLogoSvg_ = 'kubernetes-logo.svg';
-  private readonly appLogoTextSvg_ = 'kubernetes-logo-text.svg';
+  private readonly appLogoSvg_ = 'ats-logo.svg';
+  private readonly appLogoTextSvg_ = 'ats-logo-text-production.svg';
   private readonly appLogoIcon_ = 'kd-logo';
   private readonly appLogoTextIcon_ = 'kd-logo-text';
 
