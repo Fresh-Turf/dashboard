@@ -180,7 +180,7 @@ spec:
     spec:
       containers:
         - name: kubernetes-dashboard
-          image: unclenorton/k8s-dashboard:2.0.0-beta6
+          image: unclenorton/k8s-dashboard-dev:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8443
