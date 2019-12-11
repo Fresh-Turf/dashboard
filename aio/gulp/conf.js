@@ -34,7 +34,7 @@ const arch = {
   /**
    * List of all supported architectures by this project.
    */
-  list: ['amd64', 'arm64', 'arm', 'ppc64le', 's390x'],
+  list: ['amd64'],
 };
 
 /**
